@@ -1,4 +1,4 @@
-# TitanicSurvivalPrediction
+# Titanic Survival Prediction
 
 Hello Fellow Programmers,
 Everyone knows about Titanic Dataset competition on kaggle. Here is my submission for data analysis project based Titanic Survival dataset.
